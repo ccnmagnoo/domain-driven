@@ -12,27 +12,23 @@ documenting domains in studies.
 
 ## Features
 
-The concept for this mini language be _code independent_ and _easy to understand_ for all
-kind of professional involved in the initial process of collect knowledge about system.
+The concept for this mini language be **code independent** and **easy to understand** for
+all professional involved in the initial process of collect knowledge about system, with
+or without programming knowledge.
 
-This Extension will lint properly each domain driven design used in this book, with
-components as
+This Extension will lint properly each domain driven design definition used in this book,
+with components as:
 
-- `context` domain because words changes depending of the context
+- `context` domain because words changes depending of the context.
 - `structures` with definitions of objects and which data are composed.
-- `restrictions` inside this structure to work properly inside the domain context
+- `restrictions` inside this structure to work properly inside the domain context.
 - `workflows` how this structures interact each other like:
-  - `event` actions in each workflow stage
-  - `triggers by` events written in past sentences
-  - `primary input`
-  - `other input`
-  - `output events`
-  - `side-effects`
-
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off
-> your extension! We recommend short, focused animations that are easy to follow.
+  - `event` actions in each workflow stage.
+  - `triggers by` events written in past sentences.
+  - `primary input` structures involved in events.
+  - `other input` secondary structures involved.
+  - `output events` events sequence.
+  - `side-effects` secondary events sequence.
 
 ## About the Book
 
