@@ -13,7 +13,7 @@ documenting domains in studies.
 ## Features
 
 The concept for this mini language be _code independent_ and _easy to understand_ for all
-kind of professional involved in the initial process of collect knowledge abouts system.
+kind of professional involved in the initial process of collect knowledge about system.
 
 This Extension will lint properly each domain driven design used in this book, with
 components as
