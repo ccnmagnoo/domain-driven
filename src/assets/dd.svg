@@ -26,14 +26,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.71624579"
-     inkscape:cx="229.66976"
-     inkscape:cy="469.81079"
+     inkscape:cx="108.20308"
+     inkscape:cy="472.60313"
      inkscape:window-width="2400"
      inkscape:window-height="1261"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g320" />
   <defs
      id="defs2">
     <linearGradient
@@ -64,49 +64,48 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g1346"
-       transform="translate(-51.761611,-103.49999)">
+       id="g320">
       <text
          xml:space="preserve"
-         style="font-size:76.5572px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB';fill:url(#linearGradient462);fill-opacity:1;stroke-width:0.264583"
-         x="112.28925"
-         y="178.31029"
+         style="font-size:76.5572px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB';fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         x="61.74852"
+         y="72.31012"
          id="text186"
          transform="scale(1.0241563,0.97641346)"><tspan
            sodipodi:role="line"
            id="tspan184"
-           x="112.28925"
-           y="178.31029"
-           style="fill:url(#linearGradient462);fill-opacity:1;stroke-width:0.264583">D</tspan></text>
+           x="61.74852"
+           y="72.31012"
+           style="fill:#333333;fill-opacity:1;stroke-width:0.264583">D</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:50.1467px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB';fill:#d45500;fill-opacity:1;stroke-width:0.264582"
-         x="136.62119"
-         y="-119.72264"
+         style="font-size:52.1401px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB';fill:#d45500;fill-opacity:1;stroke-width:0.264582"
+         x="80.507927"
+         y="-23.728596"
          id="text186-1-9"
-         transform="scale(0.92418013,-1.0820401)"><tspan
+         transform="scale(0.92418015,-1.0820401)"><tspan
            sodipodi:role="line"
            id="tspan184-4-3"
-           x="136.62119"
-           y="-119.72264"
+           x="80.507927"
+           y="-23.728596"
            style="fill:#d45500;fill-opacity:1;stroke-width:0.264582">D</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:76.5572px;line-height:1.25;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB';fill:#d45500;fill-opacity:1;stroke-width:0.264583"
-         x="-105.96183"
-         y="178.31029"
+         x="-55.421097"
+         y="72.31012"
          id="text186-1"
          transform="scale(-1.0241563,0.97641346)"><tspan
            sodipodi:role="line"
            id="tspan184-4"
-           x="-105.96183"
-           y="178.31029"
+           x="-55.421097"
+           y="72.31012"
            style="fill:#d45500;fill-opacity:1;stroke-width:0.264583">D</tspan></text>
       <circle
-         style="fill:#ff6804;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:6.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         style="fill:#ff6804;fill-opacity:1;fill-rule:evenodd;stroke:#333333;stroke-width:6.4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          id="path662"
-         cx="111.74439"
-         cy="148.5"
+         cx="59.98278"
+         cy="45.000011"
          r="10" />
     </g>
   </g>
