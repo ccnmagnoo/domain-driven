@@ -37,7 +37,9 @@ components as
 ## About the Book
 
 ![Domain Modeling ](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/swdddf_hu6d5b8b63a4954cb696e89b39f929331b_660103_375x0_resize_q75_box.jpg)
-["Domain Modeling Made Functional" by Scott Waschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)
+
+### ["Domain Modeling Made Functional" by Scott Waschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)
+
 Tackle Software Complexity with Domain-Driven Design
 
 ## Requirements
