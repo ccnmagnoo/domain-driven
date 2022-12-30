@@ -7,8 +7,8 @@ which is used of stablish an effective communication between developer teams and
 experts.
 
 For this developers in this initial stage of the design process you will find in this
-VSCODE a friendly tool it will help you to stablish an interface for use this domain
-driven mini language.
+mini-language a friendly tool which it will help you to stablish an easy interface for
+documenting domains in studies.
 
 ## Features
 
@@ -21,9 +21,13 @@ components as
 - `context` domain because words changes depending of the context
 - `structures` with definitions of objects and which data are composed.
 - `restrictions` inside this structure to work properly inside the domain context
-- `workflows` how this structures interact each other like: - `triggers by` events written
-  in past sentences - `primary input` - `other input` - `output events` - `side-effects`
-  For example if there is an image subfolder under your extension project workspace:
+- `workflows` how this structures interact each other like:
+  - `event` actions in each workflow stage
+  - `triggers by` events written in past sentences
+  - `primary input`
+  - `other input`
+  - `output events`
+  - `side-effects`
 
 \!\[feature X\]\(images/feature-x.png\)
 
