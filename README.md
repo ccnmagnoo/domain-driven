@@ -34,6 +34,12 @@ components as
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off
 > your extension! We recommend short, focused animations that are easy to follow.
 
+## About the Book
+
+![Domain Modeling ](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/swdddf_hu6d5b8b63a4954cb696e89b39f929331b_660103_375x0_resize_q75_box.jpg)
+["Domain Modeling Made Functional" by Scott Waschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)
+Tackle Software Complexity with Domain-Driven Design
+
 ## Requirements
 
 If you have any requirements or dependencies, add a section describing those and how to
