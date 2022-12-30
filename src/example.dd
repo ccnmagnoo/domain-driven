@@ -1,0 +1,32 @@
+//Domain definitions
+
+context: Order-Taking
+
+//data native definitions
+
+data Amount = integer
+data Fraction = decimal
+data Text = string
+data Boolean = boolean
+data Time = time
+data Date = date
+
+//data definitions with restrictions
+
+data WidgetCode = string starting with "W" then 4 integer
+data GizmoCode = string starting with "G" then 3 integer
+data ProductCode = WidgetCode AND GizmoCode
+
+data UnitQuantity = integer between 1 AND ?
+data KilogramQuantity = decimal between ? AND ?
+data OrderQuantity = UnitQuantity OR KilogramQuantity
+
+data CostumerInfo = ???
+data BillingAddress = ???
+
+data Order = 
+    CostumerInfo
+    AND ShippingAddress
+    AND BillingAddress
+    AND list of OrderLines
+    AND AmountToBill  
