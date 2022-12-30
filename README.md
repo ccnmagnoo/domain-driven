@@ -1,5 +1,7 @@
 # What is DomainDriven
 
+<img src="./src/assets/dd.svg" alt="drawing" width="200" style="justify-self:center;"/>
+
 Is an extension for professionals currently needs a quick access to simple tools for
 Domain Driven Modeling Design process. Based on the pseudoscope used in the book
 ["Domain Modeling Made Functional" by Scott Wlaschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/),
@@ -8,7 +10,7 @@ experts.
 
 For this developers in this initial stage of the design process you will find in this
 mini-language a friendly tool which it will help you to stablish an easy interface for
-documenting domains in studies.
+documenting domains commands ,events and workflows.
 
 ## Features
 
