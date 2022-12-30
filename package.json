@@ -1,0 +1,25 @@
+{
+  "name": "ddp",
+  "displayName": "DDP",
+  "description": "Domain Driven Pseudocode for Domain modeling",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "ddp",
+      "aliases": ["DomainDriven", "ddp"],
+      "extensions": [".dd"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "ddp",
+      "scopeName": "scope.dd",
+      "path": "./syntaxes/ddp.tmLanguage.json"
+    }]
+  }
+}
