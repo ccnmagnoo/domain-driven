@@ -3,21 +3,27 @@
 Is an extension for professionals currently needs a quick access to simple tools for
 Domain Driven Modeling Design process. Based on the pseudoscope used in the book
 ["Domain Modeling Made Functional" by Scott Waschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/),
-you will find in this VSCODE a friendly tool will help for the initial step for understand
-(and make you understands) domain solutions using this mini language understandable for
-everybody including non programers professionals.
+which is used of stablish an effective communication between developer teams and domain
+experts.
+
+For this developers in this initial stage of the design process you will find in this
+VSCODE a friendly tool it will help you to stablish an interface for use this domain
+driven mini language.
 
 ## Features
+
+The concept for this mini language be _code independent_ and _easy to understand_ for all
+kind of professional involved in the initial process of collect knowledge abouts system.
 
 This Extension will lint properly each domain driven design used in this book, with
 components as
 
-- context
-- structures
-- restrictions
-- workflows
-
-For example if there is an image subfolder under your extension project workspace:
+- `context` domain because words changes depending of the context
+- `structures` with definitions of objects and which data are composed.
+- `restrictions` inside this structure to work properly inside the domain context
+- `workflows` how this structures interact each other like: - `triggers by` events written
+  in past sentences - `primary input` - `other input` - `output events` - `side-effects`
+  For example if there is an image subfolder under your extension project workspace:
 
 \!\[feature X\]\(images/feature-x.png\)
 
@@ -52,15 +58,7 @@ Users appreciate release notes as you update your extension.
 
 ### 1.0.0
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+Initial release of this extension
 
 ---
 
